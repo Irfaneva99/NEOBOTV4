@@ -314,10 +314,10 @@ _Jika Minat Chat Owner Ketik #owner_
 exports.donasibot = (sender, prefix) => {
    return `
   ‣ *DONASI BOT*
- ➢ DANA = 08xxxxxxx
- ➢ OVO = 08xxxxxxx
- ➢ PULSA = 08xxxxxxx
- ➢ GOPAY = 08xxxxxxx
+ ➢ DANA = 089510497533
+ ➢ OVO = 089510497533
+ ➢ PULSA = 085855854993
+ ➢ GOPAY = 089510497533
  
 Hallo Kak ${ucapanWaktu}
 Beneran Mau Donasi Bot ??
