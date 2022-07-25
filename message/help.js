@@ -71,7 +71,7 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
 exports.menuall = (sender, prefix, pushname) => {
 	return `
 _*•──•──•──•──•──•──•──•*_
-   *NEOBOT WHATSAPP*
+   *IRFANBOT WHATSAPP*
   *BAILEYS MULTI DEVICE*
 _*•──•──•──•──•──•──•──•*_
 
@@ -286,9 +286,9 @@ Sanksi: *PERMANENT BLOCK*
 
 Jika sudah dipahami rules-nya, silakan ketik *#menu* untuk memulai!
 
-⚠️ Segala kebijakan dan ketentuan Neobot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
+⚠️ Segala kebijakan dan ketentuan IrfanBot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 
-Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Neobot
+Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan IrfanBot
 😖🙏`
 }
 
